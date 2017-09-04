@@ -1,0 +1,9 @@
+{
+    "name": "node-api",
+    "main": "index.js",
+    "dependencies": {
+        "axios": "^0.16.2",
+        "body-parser": "~1.0.1",
+        "express": "~4.0.0"
+    }
+}
